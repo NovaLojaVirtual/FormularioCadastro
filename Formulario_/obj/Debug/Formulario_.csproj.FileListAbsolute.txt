@@ -1,0 +1,6 @@
+C:\tela\Formulario_\Formulario_\bin\Formulario_.dll
+C:\tela\Formulario_\Formulario_\bin\Formulario_.pdb
+C:\tela\Formulario_\Formulario_\obj\Debug\Formulario_.dll
+C:\tela\Formulario_\Formulario_\obj\Debug\Formulario_.pdb
+C:\tela\Formulario_\Formulario_\obj\Debug\Formulario_.csprojResolveAssemblyReference.cache
+C:\tela\Formulario_\Formulario_\obj\Debug\Formulario_.csproj.CoreCompileInputs.cache
